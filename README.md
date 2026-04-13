@@ -154,9 +154,34 @@ if __name__ == "__main__":
 ### SUBTRACTION OF TWO MATRIX
 <img width="440" height="696" alt="image" src="https://github.com/user-attachments/assets/81498423-972e-4ff5-983d-0fa32d39417c" />
 
+### MULTIPLICATION OF TWO MATRIX
+<img width="411" height="621" alt="image" src="https://github.com/user-attachments/assets/36e9b4da-c9a9-463a-ad83-d61c5f22b7d8" />
 
+### TRANSPOSE OF A MATRIX
+<img width="370" height="541" alt="image" src="https://github.com/user-attachments/assets/e5b8eaca-6ab3-4005-af4c-0e428d067609" />
 
+### DETERMINANT OF A MATRIX
+<img width="372" height="449" alt="image" src="https://github.com/user-attachments/assets/7d239bea-e411-4971-b0d7-1fada7fddd0d" />
 
+### EXIT OF THE PROGRAM
+<img width="355" height="373" alt="image" src="https://github.com/user-attachments/assets/dd057bc1-5c75-4615-a852-c0e67acd3497" />
 
+## ADVANTAGES
+1. Reduces manual calculation errors
+2. Fast and efficient computation
+3. User-friendly interface
+4. Supports multiple matrix operations
 
+## LIMITATIONS
+1. Console-based interface only
+2. Requires correct user input format
+3. Limited to basic operations
 
+## FUTURE ENHANCEMENTS
+1. Develop a graphical user interface (GUI)
+2. Add advanced operations (inverse, eigenvalues, rank)
+3. Integrate file input/output support
+4. Deploy as a web application
+
+## CONCLUSION
+The Matrix Operations Tool successfully demonstrates how Python and NumPy can be used to perform mathematical computations efficiently. The application is simple, interactive, and useful for students and professionals dealing with matrix operations.
